@@ -1,0 +1,3 @@
+[submodule "contracts/lib/fuzzlib"]
+	path = contracts/lib/fuzzlib
+	url = https://github.com/perimetersec/fuzzlib
