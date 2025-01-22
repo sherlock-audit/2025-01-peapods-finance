@@ -41,7 +41,7 @@ The main consideration for a design choice we made is in a few places we impleme
 ___
 
 ### Q: Please provide links to previous audits (if any).
-We have 3 audits that are currently unpublished by yAudit, Guardian, and Pashov:
+We have 3 audit reports by yAudit, Guardian, and Pashov:
 
 - [yAudit](https://sherlock-files.ams3.digitaloceanspaces.com/additional_resources/peapods_lvf_yAudit_report.pdf)
 - [Guardian](https://sherlock-files.ams3.digitaloceanspaces.com/additional_resources/peapods_lvf_Guardian_report.pdf)
